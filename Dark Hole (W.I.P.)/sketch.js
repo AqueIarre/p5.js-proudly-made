@@ -1,6 +1,5 @@
 // https://youtu.be/zUyH3XhpLTo
 // https://www.asc.ohio-state.edu/orban.14/stemcoding/blackhole.html
-// https://editor.p5js.org/codingtrain/sketches/4DvaeH0Ur
 
 const c = 30;
 const G = 2;
